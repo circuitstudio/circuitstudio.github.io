@@ -1,4 +1,8 @@
-@import url(font-awesome.min.css);
+{
+background-image:url('pink dust');
+background-attachment:fixed;
+margin-bottom:0px;
+}@import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
 
 /*
@@ -1592,3 +1596,9 @@
 		body.is-loading #footer {
 			opacity: 0;
 		}
+.jumbotron
+{
+background-image:url('pink dust');
+background-attachment:fixed;
+margin-bottom:0px;
+}
