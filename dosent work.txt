@@ -12,6 +12,7 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		
 	</head>
 	<body>
 
@@ -26,7 +27,6 @@
 						<div class="content">
 							<div class="inner">
 								<h1>Circuit Studio<h1>
-							</div>
 						</div>
 						<nav>
 							<ul>
@@ -64,7 +64,7 @@
 
 						<!-- Videos -->
 							<article id="Videos">
-								<h2 class="major">Video</h2>
+								<h2 class="major">Videos</h2>
 								<p>Featured video</p>
 								<iframe width="80%" height="336" src="https://www.youtube.com/embed/-PiB2Xd3P94" frameborder="0" allowfullscreen name="video">
  								<p>iframes are not supported by your browser.</p>
@@ -79,12 +79,13 @@
 								<a href="https://www.youtube.com/embed/Q3RMFpGGcZM" target="video">op amp </a>
 								<br/>
 								<a href="https://www.youtube.com/embed/cLiHZ1k2OHE" target="video">ideal transformer </a>
+							</article>
 
 						<!-- About -->
 							<article id="about">
 								<h2 class="major">About</h2>
 								<span class="image main"><img src="images/pic03.jpg" alt="" /></span>
-								<p>Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.</p>
+								<p>I am a college student who wishes to help others find the information they need to learn about circuits.It is my beleif that learning about circuits will open up opportunities for you to enter a growing feild and possibly better yourself</p>
 							</article>
 
 						<!-- Contact -->
